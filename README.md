@@ -8,6 +8,16 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![暖像素经济封面：现金、银行卡、ATM、玩家商店与小镇](docs/screenshots/01_cover.png)
+
+![实体纸币、WP 货币与银行卡](docs/screenshots/02_currency.png)
+
+![ATM、商店设施与小镇终端](docs/screenshots/03_facilities.png)
+
+![暖像素经济功能一览](docs/screenshots/04_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 2.1.19）。
